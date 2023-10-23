@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+}
+
+header {
+    background-color: #800000; 
+    text-align: center;
+    padding: 20px;
+}
+
+.profile-container {
+    text-align: center;
+}
+
+.profile-section img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.profile-section h2 {
+    font-size: 28px;
+    color: #800000; 
+}
+
+.profile-section p {
+    margin: 10px 0;
+    color: #800000; 
+}
+
+.profile-section h3 {
+    font-size: 18px;
+    color: #800000; 
+}
+
+.profile-section ol {
+    list-style: decimal;
+    margin: 10px 0;
+}
+
+.social-links {
+    margin: 20px;
+}
+
+.social-links a {
+    color: #800000; 
+    text-decoration: none;
+    margin: 10px;
+    transition: color 0.3s;
+}
+
+.social-links a:hover {
+    color: #e74c3c; 
+}
+
+footer {
+    background-color: #800000;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
